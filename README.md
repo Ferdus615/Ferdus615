@@ -6,7 +6,7 @@
 * I am currently learning Macchin Learning, Deep Learning
 
 ## Social Links
-[Facebook](https://www.facebook.com/ferdus.rhaman.581/) / [Instagram](https://www.instagram.com/ferdus615/) / [LinkedIn](https://www.linkedin.com/in/ferdus-khan-80b1b3146/) / [Discord]() /
+[Facebook](https://www.facebook.com/ferdus.rhaman.581/) / [Instagram](https://www.instagram.com/ferdus615/) / [LinkedIn](https://www.linkedin.com/in/ferdus-khan-80b1b3146/) / [Discord](https://discord.com/channels/@me) /
 <!--
 **Ferdus615/Ferdus615** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
