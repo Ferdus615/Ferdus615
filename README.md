@@ -1,4 +1,4 @@
-# Hi there, I am Ferdus Rhaman Khan 👋
+# ```Hi there, I am Ferdus Rhaman Khan 👋```
 
 ## About Me
 
@@ -6,24 +6,16 @@ Welcome to my world, where I am a dedicated and passionate programmer fueled by 
 
 * I am currently studying BSc in Computer Science & Engineering
 * I am skilled in Embedded System, Web Development, Programming
-* I am currently learning Macchin Learning, Deep Learning
+* I am currently learning Machine Learning, Deep Learning
 
 ## Social Links
 [Facebook](https://www.facebook.com/ferdus.rhaman.581/) / [Instagram](https://www.instagram.com/ferdus615/) / [LinkedIn](https://www.linkedin.com/in/ferdus-khan-80b1b3146/) / [Discord](https://discord.com/channels/@me) /
 
 ## Contacts
 Gmail- ferdus615@gmail.com
-<!--
-**Ferdus615/Ferdus615** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# 📊 GitHub Stats:
+![](https://github-readme-streak-stats.herokuapp.com/?user=Ferdus615&theme=gotham&hide_border=false)<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ferdus615&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
