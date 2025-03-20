@@ -9,7 +9,9 @@ Welcome to my world, where I am a dedicated and passionate programmer fueled by 
 * I am currently learning Machine Learning, Deep Learning
 
 ## Social Links
-[Facebook](https://www.facebook.com/ferdus.rhaman.581/) / [Instagram](https://www.instagram.com/ferdus615/) / [LinkedIn](https://www.linkedin.com/in/ferdus-khan-80b1b3146/) / [Discord](https://discord.com/channels/@me) /
+[LinkedIn](https://www.linkedin.com/in/ferdus-khan-80b1b3146/) / [Facebook](https://www.facebook.com/ferdus.rhaman.581/) / [Instagram](https://www.instagram.com/ferdus615/) / [Discord](https://discord.com/channels/@me) /
 
 ## Contacts
 Gmail- ferdus615@gmail.com
+
+## LinkedIN
