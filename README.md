@@ -14,4 +14,4 @@ Welcome to my world, where I am a dedicated and passionate programmer fueled by 
 ## Contacts
 Gmail- ferdus615@gmail.com
 
-## LinkedIN
+LinkedIN - [Ferdus Rhaman Khan](https://www.linkedin.com/in/ferdus-khan-80b1b3146/)
