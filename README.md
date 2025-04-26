@@ -16,6 +16,7 @@ I am a highly motivated and detail-oriented programmer with a background in Comp
 
 I am currently expanding my knowledge in the fields of:
 
+* Python - Django
 * Machine Learning
 * Deep Learning
 * AI Technologies
