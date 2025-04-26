@@ -2,11 +2,27 @@
 
 ## About Me
 
-Welcome to my world, where I am a dedicated and passionate programmer fueled by curiosity and committed to honing my coding skills. With a clear, logical mind and a practical approach to problem-solving, I embrace challenges as opportunities for growth. I am driven to see projects through to completion, constantly seeking ways to improve and expand my expertise in the art of coding. Eager to be challenged, I am on a relentless pursuit of knowledge and excellence in my programming journey.
+I am a highly motivated and detail-oriented programmer with a background in Computer Science & Engineering. I possess a strong passion for crafting efficient and innovative solutions in both software and embedded systems development. My approach is characterized by a logical mindset, a commitment to practical problem-solving, and a drive to continuously expand my technical expertise. I thrive on challenges that encourage professional growth, and I am dedicated to delivering high-quality results.
 
-* I am graduated BSc in Computer Science & Engineering
-* I am skilled in Embedded System, Web Development, Programming
-* I am currently learning Machine Learning, Deep Learning & AI Technologies
+**Key Skills**
+
+* **Programming Languages:** Proficient in Python, JavaScript, and C/C++.
+* **Web Development:** Experience with modern web frameworks such as Django, React, Node.js, and Express.js.
+* **Embedded Systems:** Knowledge of embedded systems development, including experience with Arduino.
+* **Databases:** Experience with SQL databases (e.g., MySQL, PostgreSQL), NoSQL databases(e.g., MongoDB).
+* **Tools:** Comfortable using development tools like VS Code, Git, Vercel and others.
+
+**What I'm Currently Exploring**
+
+I am currently expanding my knowledge in the fields of:
+
+* Machine Learning
+* Deep Learning
+* AI Technologies
+
+**My Focus**
+
+My primary focus is to apply my skills to create impactful projects and contribute to collaborative development environments. I am eager to tackle complex problems and build robust, scalable applications.
 
 ## Social Links
 [LinkedIn](https://www.linkedin.com/in/ferdus-khan-80b1b3146/) / [Facebook](https://www.facebook.com/ferdus.rhaman.581/) / [Instagram](https://www.instagram.com/ferdus615/) / [Discord](https://discord.com/channels/@me) /
