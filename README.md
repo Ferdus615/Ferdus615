@@ -6,7 +6,7 @@ I am a highly motivated and detail-oriented programmer with a background in Comp
 
 **Key Skills**
 
-* **Programming Languages:** Proficient in Python, JavaScript, and C/C++.
+* **Programming Languages:** Python, JavaScript, and C/C++.
 * **Web Development:** Experience with modern web frameworks such as Django, React, Node.js, and Express.js.
 * **Embedded Systems:** Knowledge of embedded systems development, including experience with Arduino.
 * **Databases:** Experience with SQL databases (e.g., MySQL, PostgreSQL), NoSQL databases(e.g., MongoDB).
@@ -17,8 +17,8 @@ I am a highly motivated and detail-oriented programmer with a background in Comp
 I am currently expanding my knowledge in the fields of:
 
 * Python - Django
-* Machine Learning
-* Deep Learning
+* Frontend Development
+* Frontend Development
 * AI Technologies
 
 **My Focus**
