@@ -31,6 +31,6 @@ My primary focus is to apply my skills to create impactful projects and contribu
 ## Contacts
 Gmail- ferdus615@gmail.com
 
-Linkedin - [Ferdus Rhaman](https://www.linkedin.com/in/ferdus-khan-80b1b3146/)
+Linkedin - [Ferdus Rhaman](https://www.linkedin.com/in/ferdus615/)
 
-LeetCode - [Leet_Ferdus](https://leetcode.com/u/ferdus615/)
+LeetCode - [ferdus615](https://leetcode.com/u/ferdus615/)
