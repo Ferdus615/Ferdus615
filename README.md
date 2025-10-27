@@ -16,10 +16,9 @@ I am a highly motivated and detail-oriented programmer with a background in Comp
 
 I am currently expanding my knowledge in the fields of:
 
-* React.js, Next.js, Tailwind
+* React.js, Nest.js, Next.js, Tailwind
 * Web Development
 * AI Technologies
-* Python - Django
 
 **My Focus**
 
