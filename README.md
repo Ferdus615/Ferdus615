@@ -6,8 +6,8 @@ I am a highly motivated and detail-oriented programmer with a background in Comp
 
 **Key Skills**
 
-* **Programming Languages:** Python, JavaScript, and C/C++.
-* **Web Development:** Experience with modern web frameworks such as React, Next.js, Tailwind Node.js, and Express.js.
+* **Programming Languages:** JavaScript, Python, and C/C++.
+* **Web Development:** Experience with modern web frameworks such as React, Next.js, Tailwind, Node.js and Nest.js.
 * **Embedded Systems:** Knowledge of embedded systems development, including experience with Arduino.
 * **Databases:** Experience with SQL databases (e.g., MySQL, PostgreSQL), NoSQL databases(e.g., MongoDB).
 * **Tools:** Comfortable using development tools like VS Code, Git, Vercel and others.
