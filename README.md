@@ -25,7 +25,7 @@ I am currently expanding my knowledge in the fields of:
 My primary focus is to apply my skills to create impactful projects and contribute to collaborative development environments. I am eager to tackle complex problems and build robust, scalable applications.
 
 ## Social Links
-[LinkedIn](https://www.linkedin.com/in/ferdus-khan-80b1b3146/) / [Facebook](https://www.facebook.com/ferdus.rhaman.581/) / [Instagram](https://www.instagram.com/ferdus615/) / [Discord](https://discord.com/channels/@me) /
+[LinkedIn](https://www.linkedin.com/in/ferdus615/) / [Facebook](https://www.facebook.com/ferdus.rhaman.581/) / [Instagram](https://www.instagram.com/ferdus615/) / [Discord](https://discord.com/channels/@me) /
 
 ## Contacts
 Gmail- ferdus615@gmail.com
